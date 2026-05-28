@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 
 <!-- skill-icons 风格（图中大图标那排）-->
 [![My Skills](https://skillicons.dev/icons?i=js,python,react,vue,nodejs,mysql,)](https://skillicons.dev)
+
+<div align="center">
+  <img src="./banner.png" alt="banner" width="100%"/>
+</div>
