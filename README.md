@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 <!-- skill-icons 风格（图中大图标那排）-->
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,java,spring,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,react,vue,nodejs,mysql,)](https://skillicons.dev)
