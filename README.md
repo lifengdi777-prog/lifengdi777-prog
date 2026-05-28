@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=console.log("Hello,+World!"))](https://git.io/typing-svg)
+
+<!-- shields.io 风格 -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+<!-- skill-icons 风格（图中大图标那排）-->
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,java,spring,mysql,redis)](https://skillicons.dev)
